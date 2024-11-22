@@ -4,7 +4,7 @@
 # 👋 Hi, I'm Somin Jeong 
 
 안녕하세요! 저는 정소민입니다.
-
+현재 중앙대학교 예술공학부에 재학중입니다.
 ---
 
 🌟 **기술 스택**  
@@ -12,16 +12,26 @@
 
 ### **프로그래밍 언어**  
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### **도구 및 플랫폼**  
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 </div>
-중앙대 예술공학부
-</div>
-20240109
-</div>
-jsm051108@naver.com
-</div>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jsomin1108@gmail.com)
-	
+
+## 📬 **연락처**  
+- **이메일**: [jsomin1108@gmail.com](mailto:jsomin1108@gmail.com)  
+- **GitHub**: [(https://github.com/wjdthals)](https://github.com/wjdthals)  
+
+---
+
+## 📊 **GitHub 통계**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+
+---
+
+## 🤝 **협업을 환영합니다!**  
+제가 진행한 프로젝트나 기술에 관심이 있다면 언제든지 연락 주세요!  
+저와 협업하거나 아이디어를 공유하고 싶으신 분들은 Pull Request 또는 Issue를 남겨주세요.  
+
+---
