@@ -9,7 +9,7 @@
 
 ---
 
-# 🌟 **기술 스택**  
+## 🌟 **기술 스택**  
 다음은 제가 활용 가능한 기술들입니다:  
 
 ### **프로그래밍 언어**  
@@ -27,13 +27,13 @@
 ---
 
 ## 📊 **GitHub 통계**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjdthals&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdthals&layout=compact&theme=radical)  
 
 ---
 
 ## 🤝 **협업을 환영합니다!**  
-제가 진행한 프로젝트나 기술에 관심이 있다면 언제든지 연락 주세요!  
+제가 진행한 프로젝트나 기술에 관심이 있다면 언제든지 연락 주세요:)  
 저와 협업하거나 아이디어를 공유하고 싶으신 분들은 Pull Request 또는 Issue를 남겨주세요.  
 
 ---
