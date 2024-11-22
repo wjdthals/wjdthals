@@ -1,3 +1,4 @@
+<div align=center>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23858585&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
@@ -20,12 +21,19 @@
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 </div>
 
+## 🚀 **프로젝트**  
+### 📌 **[프로젝트 이름]**  
+- **설명**: [프로젝트 개요: 예 - "React와 Flask를 활용한 실시간 학습 플랫폼 개발"]  
+- **역할**: [프로젝트에서 맡은 역할: 예 - "프론트엔드 설계 및 백엔드 API 구현"]  
+- **기술 스택**: React, Flask, PostgreSQL  
+- **성과**: [결과: 예 - "동시 접속자 500명 이상을 처리할 수 있는 안정적인 플랫폼 구축"]  
+- **링크**: [배포 URL이나 GitHub 저장소 링크](#)
+
 ## 📬 **연락처**  
 | 연락처 종류 | 정보 |
 |-------------|---------------------------------------------------|
-| **이메일**  | [jsomin1108@gmail.com](mailto:jsomin1108@gmail.com) |
-| **GitHub**  | [https://github.com/wjdthals](https://github.com/wjdthals) |
-
+| **이메일**  |  ![Email](https://img.shields.io/badge/Email-jsomin1108@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)  |
+| **GitHub**  |  ![GitHub](https://img.shields.io/badge/GitHub-wjdthals-181717?style=flat&logo=github&logoColor=white)  |
 ---
 
 ## 📊 **GitHub 통계**  
