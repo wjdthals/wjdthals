@@ -1,6 +1,15 @@
 # 👋 Hi, I'm Somin Jeong 
 
-안녕하세요! 저는 정소민입니다. 
+안녕하세요! 저는 정소민입니다.
+
+---
+
+🌟 **기술 스택**  
+다음은 제가 활용 가능한 기술들입니다:  
+
+### **프로그래밍 언어**  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 </div>
 중앙대 예술공학부
 </div>
