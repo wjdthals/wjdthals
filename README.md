@@ -7,8 +7,8 @@
 # 👋 Hi, I'm Somin Jeong 
 
 안녕하세요! 저는 정소민입니다.
-</div>
-현재 중앙대학교 예술공학부에 재학중입니다.
+
+소속: 중앙대학교 예술공학부
 
 ---
 
@@ -23,7 +23,6 @@
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 </div>
 
----
 
 ## 🚀 **프로젝트**  
 ### 📌 **[프로젝트 이름]**  
