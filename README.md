@@ -32,11 +32,10 @@
 - **성과**: [결과: 예 - "동시 접속자 500명 이상을 처리할 수 있는 안정적인 플랫폼 구축"]  
 - **링크**: [배포 URL이나 GitHub 저장소 링크](#)
 
-## 📬 **연락처**  
-| 연락처 종류 | 정보 |
-|-------------|---------------------------------------------------|
-| **이메일**  |  ![Email](https://img.shields.io/badge/Email-jsomin1108@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)  |
-| **GitHub**  |  ![GitHub](https://img.shields.io/badge/GitHub-wjdthals-181717?style=flat&logo=github&logoColor=white)  |
+### **연락처**  
+- <a href="mailto:jsomin1108@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="20"/></a> **Email**: [jsomin1108@gmail.com](mailto:jsomin1108@gmail.com)  
+- <a href="https://github.com/wjdthals"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="20"/></a> **GitHub**: [wjdthals](https://github.com/wjdthals)  
+
 ---
 
 ## 📊 **GitHub 통계**  
