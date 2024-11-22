@@ -6,7 +6,6 @@
 </div>
 20240109
 </div>
-01067209770
 </div>
 jsm051108@naver.com
 </div>
