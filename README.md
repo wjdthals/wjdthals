@@ -46,16 +46,13 @@ GitHub는 코드를 저장하고 협업할 수 있는 버전 관리 플랫폼입
 
 
 ## 🚀 **프로젝트**  
-### 📌 **[프로젝트 이름]**  
-- **설명**: [프로젝트 개요: 예 - "React와 Flask를 활용한 실시간 학습 플랫폼 개발"]  
-- **역할**: [프로젝트에서 맡은 역할: 예 - "프론트엔드 설계 및 백엔드 API 구현"]  
-- **기술 스택**: React, Flask, PostgreSQL  
-- **성과**: [결과: 예 - "동시 접속자 500명 이상을 처리할 수 있는 안정적인 플랫폼 구축"]  
-- **링크**: [배포 URL이나 GitHub 저장소 링크](#)
+### 📌 **[목표 프로젝트]**  
+인공지능을 활용한 간단한 챗봇을 개발해보고 싶습니다.
+-Python을 활용하여 간단한 대화형 AI 챗봇을 개발하고자 합니다. 사용자의 입력에 따라 적절한 응답을 생성하며, 주로 간단한 FAQ 응답 및 대화형 테스트를 목표로 합니다.
 
 ### **연락처**  
 - <a href="mailto:jsomin1108@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="20"/></a> **Email**: [jsomin1108@gmail.com](mailto:jsomin1108@gmail.com)  
-- <a href="https://github.com/wjdthals"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="20"/></a> **GitHub**: [wjdthals](https://github.com/wjdthals)  
+- <a href="https://github.com/wjdthals"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="20"/></a> **GitHub**: [wjdthals](https://github.com/wjdthals) 
 
 ---
 
