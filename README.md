@@ -17,11 +17,15 @@
 
 ### **프로그래밍 언어**  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+
 Python은 배우기 쉬운 문법과 풍부한 라이브러리로 유명한 범용 프로그래밍 언어입니다.
+
 -장점: 간결한 코드, 데이터 분석, 웹 개발, 인공지능에 강점.
+
 -사용 예시: 머신러닝(TensorFlow), 웹 개발(Django).
  
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
+
 C++는 고성능과 하드웨어 제어가 가능한 컴파일 언어입니다.
 -장점: 빠른 실행 속도, 메모리 관리 기능 제공.
 -사용 예시: 게임 개발, 운영 체제, 고성능 응용 프로그램.
