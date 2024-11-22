@@ -21,8 +21,10 @@
 </div>
 
 ## 📬 **연락처**  
-- **이메일**: [jsomin1108@gmail.com](mailto:jsomin1108@gmail.com)  
-- **GitHub**: [(https://github.com/wjdthals)](https://github.com/wjdthals)  
+| 연락처 종류 | 정보 |
+|-------------|---------------------------------------------------|
+| **이메일**  | [jsomin1108@gmail.com](mailto:jsomin1108@gmail.com) |
+| **GitHub**  | [https://github.com/wjdthals](https://github.com/wjdthals) |
 
 ---
 
@@ -30,6 +32,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjdthals&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdthals&layout=compact&theme=radical)  
 
+### **활동 그래프**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wjdthals&bg_color=1d2a3a&color=9cf&line=f09&point=51e6f4&area=true&hide_border=true)
+
+### **기타 뱃지**
+- ![Profile Views](https://komarev.com/ghpvc/?username=wjdthals&style=flat-square&color=blue)
 ---
 
 ## 🤝 **협업을 환영합니다!**  
