@@ -20,29 +20,12 @@
 ### **프로그래밍 언어**  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
-Python은 배우기 쉬운 문법과 풍부한 라이브러리로 유명한 범용 프로그래밍 언어입니다.
-
--장점: 간결한 코드, 데이터 분석, 웹 개발, 인공지능에 강점.
-
--사용 예시: 머신러닝(TensorFlow), 웹 개발(Django).
  
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
 
-C++는 고성능과 하드웨어 제어가 가능한 컴파일 언어입니다.
-
--장점: 빠른 실행 속도, 메모리 관리 기능 제공.
-
--사용 예시: 게임 개발, 운영 체제, 고성능 응용 프로그램.
 
 ### **도구 및 플랫폼**  
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-
-GitHub는 코드를 저장하고 협업할 수 있는 버전 관리 플랫폼입니다.
-
--장점: 코드 공유, 협업 도구(CI/CD), 오픈소스 프로젝트 관리.
-
--사용 예시: 팀 프로젝트 관리, 개인 포트폴리오.
-</div>
 
 
 ## 🚀 **프로젝트**  
@@ -65,7 +48,8 @@ GitHub는 코드를 저장하고 협업할 수 있는 버전 관리 플랫폼입
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wjdthals&bg_color=1d2a3a&color=9cf&line=f09&point=51e6f4&area=true&hide_border=true)
 
 ### **기타 뱃지**
-- ![Profile Views](https://komarev.com/ghpvc/?username=wjdthals&style=flat-square&color=blue)
+- [![Profile Views](https://komarev.com/ghpvc/?username=wjdthals&style=flat-square&color=blue)](https://github.com/wjdthals)
+
 ---
 
 ## 🤝 **협업을 환영합니다!**  
