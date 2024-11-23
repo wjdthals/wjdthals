@@ -42,8 +42,6 @@ I am planning to develop a simple chatbot powered by artificial intelligence.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjdthals&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdthals&layout=compact&theme=radical)  
 
-### **Activity Graph**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wjdthals&bg_color=1d2a3a&color=9cf&line=f09&point=51e6f4&area=true&hide_border=true)
 
 ### **Additional Badges**
 - [![Profile Views](https://komarev.com/ghpvc/?username=wjdthals&style=flat-square&color=blue)](https://github.com/wjdthals)
