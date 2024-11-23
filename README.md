@@ -40,7 +40,6 @@ I am planning to develop a simple chatbot powered by artificial intelligence.
 
 ## 📊 **GitHub Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjdthals&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdthals&layout=compact&theme=radical)  
 
 
 ### **Additional Badges**
